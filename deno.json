@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "reto1": "deno run retos/reto1/app.js",
+    "reto1ts": "deno run retos/reto1/app.ts",
+    "reto1-2021": "deno run 2021/reto1/app.js"
+  }
+}
