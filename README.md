@@ -14,14 +14,16 @@ _24 días_ _24 retos de programación_
 Ejecutar las soluciones a los retos
 
 ```bash
-# deno run 2021/reto{numeroDelReto}.js
+# deno run 2021/reto{numeroDelReto}/app.js
 deno run retos/reto1/app.js
 ```
 
 Si esta disponible puedes usar
 
 ```bash
-deno task reto1
+deno task reto -n 1 --ts
+# $ deno run retos/reto1/app.ts
+# para ejecutar en js se quita el --ts
 ```
 
 ### 2021
@@ -35,11 +37,11 @@ Ejecutar las soluciones a los retos
 
 ```bash
 # deno run 2021/reto{numeroDelReto}.js
-deno run 2021/reto1.js
+deno run 2021/reto1/app.js
 ```
 
 Si esta disponible puedes usar
 
 ```bash
-deno task reto1-2021
+deno task reto -n 1 --ed 2021
 ```
