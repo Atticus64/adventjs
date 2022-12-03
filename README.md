@@ -9,7 +9,7 @@ _24 días_ _24 retos de programación_
 | Reto                                      | Status                    |
 | :--------------------------------:        | :----------------:        |
 | Automatizando envolver regalos de navidad | :heavy_check_mark: :tada: |
-| Nadie quiere hacer horas extra            | :pushpin:                 |
+| Nadie quiere hacer horas extra            | :heavy_check_mark: :tada: |
 
 Ejecutar las soluciones a los retos
 
