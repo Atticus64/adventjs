@@ -21,7 +21,7 @@ deno run retos/reto1/app.js
 Si esta disponible puedes usar
 
 ```bash
-deno task reto -n 1 --ts
+deno task reto --n 1 --ts
 # $ deno run retos/reto1/app.ts
 # para ejecutar en js se quita el --ts
 ```
@@ -43,5 +43,5 @@ deno run 2021/reto1/app.js
 Si esta disponible puedes usar
 
 ```bash
-deno task reto -n 1 --ed 2021
+deno task reto --n 1 --ed 2021
 ```
