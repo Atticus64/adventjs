@@ -6,10 +6,11 @@ _24 días_ _24 retos de programación_
 
 ### 2022
 
-|                   Reto                    |          Status           |
-| :---------------------------------------: | :-----------------------: |
-| Automatizando envolver regalos de navidad | :heavy_check_mark: :tada: |
-|      Nadie quiere hacer horas extra       | :heavy_check_mark: :tada: |
+|                   Reto                               |          Status           |
+| :---------------------------------------:            | :-----------------------: |
+| Automatizando envolver regalos de navidad            | :heavy_check_mark: :tada: |
+|      Nadie quiere hacer horas extra                  | :heavy_check_mark: :tada: |
+| ¿ Cuantas cajas de regalos puede llevar Papá Noel ?  | :heavy_check_mark: :tada: |
 
 Ejecutar las soluciones a los retos
 
