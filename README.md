@@ -6,12 +6,12 @@ _24 días_ _24 retos de programación_
 
 ### 2022
 
-|                   Reto                               |          Status    |
-| :---------------------------------------:            | :----------------: |
-| Automatizando envolver regalos de navidad            | :heavy_check_mark: |
-|      Nadie quiere hacer horas extra                  | :heavy_check_mark: |
-| ¿ Cuantas cajas de regalos puede llevar Papá Noel ?  | :heavy_check_mark: |
-| Una Caja dentro de otra caja y otra...               | :heavy_check_mark: |
+|                   Reto                               |          Status    |   Solutions                                                                    |
+| :---------------------------------------:            | :----------------: | :----------------:                                                             |
+| Automatizando envolver regalos de navidad            | :heavy_check_mark: | [Reto 1](https://github.com/Atticus64/adventjs/blob/main/retos/reto1/app.js)   |
+|      Nadie quiere hacer horas extra                  | :heavy_check_mark: | [Reto 2](https://github.com/Atticus64/adventjs/blob/main/retos/reto2/app.js)   |
+| ¿ Cuantas cajas de regalos puede llevar Papá Noel ?  | :heavy_check_mark: | [Reto 3](https://github.com/Atticus64/adventjs/blob/main/retos/reto3/app.js)   |
+| Una Caja dentro de otra caja y otra...               | :heavy_check_mark: | [Reto 4](https://github.com/Atticus64/adventjs/blob/main/retos/reto3/app.js) |
 
 Ejecutar las soluciones a los retos
 
