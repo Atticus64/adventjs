@@ -6,6 +6,7 @@ _24 días_ _24 retos de programación_
 
 ### 2022
 
+Estas soluciones pueden tener spoilers :warning:
 |                   Reto                               |          Status    |   Solutions                                                                    |
 | :---------------------------------------:            | :----------------: | :----------------:                                                             |
 | Automatizando envolver regalos de navidad            | :heavy_check_mark: | [Reto 1](https://github.com/Atticus64/adventjs/blob/main/retos/reto1/app.js)   |
