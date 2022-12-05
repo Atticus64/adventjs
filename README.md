@@ -12,7 +12,7 @@ Estas soluciones pueden tener spoilers :warning:
 | Automatizando envolver regalos de navidad            | :heavy_check_mark: | [Reto 1](https://github.com/Atticus64/adventjs/blob/main/retos/reto1/app.js)   |
 |      Nadie quiere hacer horas extra                  | :heavy_check_mark: | [Reto 2](https://github.com/Atticus64/adventjs/blob/main/retos/reto2/app.js)   |
 | ¿ Cuantas cajas de regalos puede llevar Papá Noel ?  | :heavy_check_mark: | [Reto 3](https://github.com/Atticus64/adventjs/blob/main/retos/reto3/app.js)   |
-| Una Caja dentro de otra caja y otra...               | :heavy_check_mark: | [Reto 4](https://github.com/Atticus64/adventjs/blob/main/retos/reto3/app.js) |
+| Una Caja dentro de otra caja y otra...               | :heavy_check_mark: | [Reto 4](https://github.com/Atticus64/adventjs/blob/main/retos/reto4/app.js) |
 
 Ejecutar las soluciones a los retos
 
