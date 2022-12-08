@@ -6,7 +6,6 @@ const flags = parse(Deno.args, {
   default: { n: 1 },
 });
 
-
 const runChallenge = async (retoNumber: string | number, flags: Args) => {
   let script = `retos/reto${retoNumber}/app.js`;
   if (!retoNumber) {
