@@ -14,7 +14,7 @@ Estas soluciones pueden tener spoilers :warning:
 | ¿ Cuantas cajas de regalos puede llevar Papá Noel ?  | :heavy_check_mark: | [Reto 3](https://github.com/Atticus64/adventjs/blob/main/retos/reto3/app.js)   |
 | Una Caja dentro de otra caja y otra...               | :heavy_check_mark: | [Reto 4](https://github.com/Atticus64/adventjs/blob/main/retos/reto4/app.js) |
 | Optimizando viajes de Santa               | :heavy_check_mark: | [Reto 5](https://github.com/Atticus64/adventjs/blob/main/retos/reto4/app.js) |
-| Creando adornos navideños               | :heavy_check_mark: | Reto 6 |
+| Creando adornos navideños               | :pushpin: | Reto 6 |
 | Haciendo el inventario de regalos               | :heavy_check_mark: | [Reto 7](https://github.com/Atticus64/adventjs/blob/main/retos/reto4/app.js) |
 | Necesitamos un mecanico               | :heavy_check_mark: | [Reto 8](https://github.com/Atticus64/adventjs/blob/main/retos/reto4/app.js) |
 
@@ -53,4 +53,5 @@ Si esta disponible puedes usar
 deno task reto --n 1 --ed 2021
 ```
 
-[ ] Agregar readmes reots 5, 6, 7 y 8
+- [ ] Agregar readmes retos 5, 6, 7 y 8
+- [ ] Hacer el reto 6
